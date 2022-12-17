@@ -1,0 +1,19 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "window.zoomLevel": 4,
+  "editor.dragAndDrop": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "html.format.unformatted": "",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true,
+  "python.analysis.typeCheckingMode": "strict",
+  "json.schemas": []
+}
